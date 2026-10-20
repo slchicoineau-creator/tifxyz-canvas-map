@@ -1,0 +1,12 @@
+[
+ {
+  "segment": "20250919132115",
+  "key": "PHerc0009B/segments/20250919132115-auto_grown_20250919062115592_inp_hr/surface-volumes/2.401um-0.35m-77keV-volume-20250820154339.zarr",
+  "level": 2,
+  "layers_level": 109,
+  "layers0": 109,
+  "max_abs_diff": 1.0,
+  "nonzero_frac": 1.0,
+  "ok": true
+ }
+]

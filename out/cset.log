@@ -1,0 +1,19 @@
+0b ('PHerc0841', '20260220214732') True 732-auto_grown_20260220144552896/surface-volumes/2.403um-0.22m-77keV-volume-20260319124803.zarr", "level": 2, "layers_level": 109, "layers0": 109, "max_abs_diff": 1.0, "nonzero_frac": 1.0, "ok": true}
+ct ('PHerc0841', '20260220214732') rc 0 478 s
+0b ('PHerc0841', '20260221022814') True 814-auto_grown_20260220174252405/surface-volumes/2.403um-0.22m-77keV-volume-20260319124803.zarr", "level": 2, "layers_level": 109, "layers0": 109, "max_abs_diff": 1.0, "nonzero_frac": 1.0, "ok": true}
+ct ('PHerc0841', '20260221022814') rc 0 424 s
+0b ('PHerc0139', '20260206000002') True s/20260206000002-w054_2026020617/surface-volumes/2.399um-0.22m-78keV-volume-20260102150214.zarr", "level": 2, "layers_level": 109, "layers0": 109, "max_abs_diff": 1.0, "nonzero_frac": 1.0, "ok": true}
+ct ('PHerc0139', '20260206000002') rc 0 2579 s
+0b ('PHerc0139', '20251226000000') True s/20251226000000-w055_2025122611/surface-volumes/2.399um-0.22m-78keV-volume-20260102150214.zarr", "level": 2, "layers_level": 109, "layers0": 109, "max_abs_diff": 1.0, "nonzero_frac": 1.0, "ok": true}
+ct ('PHerc0139', '20251226000000') rc 0 2465 s
+0b ('PHerc0139', '20260227000000') True s/20260227000000-w052_2026022705/surface-volumes/2.399um-0.22m-78keV-volume-20260102150214.zarr", "level": 2, "layers_level": 109, "layers0": 109, "max_abs_diff": 1.0, "nonzero_frac": 1.0, "ok": true}
+ct ('PHerc0139', '20260227000000') rc 0 2343 s
+0814 selection [('PHerc0814', '20250928235953'), ('PHerc0814', '20260226000000')]
+0b ('PHerc0814', '20250928235953') False 53-auto_grown_20250928235953722/surface-volumes/2.399um-0.22m-78keV-volume-20260309142202.zarr", "level": 2, "layers_level": 109, "layers0": 109, "max_abs_diff": 0.0, "nonzero_frac": 0.0, "ok": false}
+0b ('PHerc0814', '20260226000000') True ts/20260226000000-46527_2um_try2/surface-volumes/2.399um-0.22m-78keV-volume-20260309142202.zarr", "level": 2, "layers_level": 109, "layers0": 109, "max_abs_diff": 1.0, "nonzero_frac": 1.0, "ok": true}
+ct ('PHerc0814', '20260226000000') rc 0 89 s
+0b ('PHerc0500P2', '20250628074500') True ments/20250628074500-500P2_front/surface-volumes/2.215um-0.4m-111keV-volume-20250526151718.zarr", "level": 2, "layers_level": 118, "layers0": 118, "max_abs_diff": 1.0, "nonzero_frac": 1.0, "ok": true}
+ct ('PHerc0500P2', '20250628074500') rc 0 434 s
+0b ('PHerc0500P2', '20250611170257') True gen_00308_inp_hr/surface-volumes/2.215um-0.4m-111keV-volume-20250526151718.zarr", "level": 2, "layers_level": 118, "layers0": 118, "max_abs_diff": 0.75, "nonzero_frac": 0.6235416666666667, "ok": true}
+ct ('PHerc0500P2', '20250611170257') rc 0 283 s
+CSET_DONE

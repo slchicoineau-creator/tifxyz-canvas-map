@@ -1,0 +1,222 @@
+{
+ "apply154": {
+  "n": 154,
+  "counts": {
+   "PASS": 151,
+   "NOT_EVALUABLE": 3
+  },
+  "plain003_pass": 150,
+  "in_files_among_evaluable": 140,
+  "sum_n_clean": 9283279,
+  "sum_n_clean_off": 8,
+  "pairs_with_clean_off": 4
+ },
+ "s2": {
+  "n": 52,
+  "counts": {
+   "PASS": 52
+  },
+  "plain003_pass": 50,
+  "in_files_among_evaluable": 52,
+  "sum_n_clean": 2675306,
+  "sum_n_clean_off": 1,
+  "pairs_with_clean_off": 1
+ },
+ "all206": {
+  "n": 206,
+  "counts": {
+   "PASS": 203,
+   "NOT_EVALUABLE": 3
+  },
+  "plain003_pass": 200,
+  "in_files_among_evaluable": 192,
+  "sum_n_clean": 11958585,
+  "sum_n_clean_off": 9,
+  "pairs_with_clean_off": 5
+ },
+ "by_set_sample": {
+  "s1/PHerc0139": {
+   "n": 38,
+   "counts": {
+    "PASS": 38
+   },
+   "plain003_pass": 38,
+   "in_files_among_evaluable": 35,
+   "sum_n_clean": 2059235,
+   "sum_n_clean_off": 0,
+   "pairs_with_clean_off": 0
+  },
+  "s1/PHerc0500P2": {
+   "n": 46,
+   "counts": {
+    "PASS": 43,
+    "NOT_EVALUABLE": 3
+   },
+   "plain003_pass": 43,
+   "in_files_among_evaluable": 35,
+   "sum_n_clean": 224044,
+   "sum_n_clean_off": 7,
+   "pairs_with_clean_off": 3
+  },
+  "s1_readable/PHerc0009B": {
+   "n": 18,
+   "counts": {
+    "PASS": 18
+   },
+   "plain003_pass": 18,
+   "in_files_among_evaluable": 18,
+   "sum_n_clean": 1800000,
+   "sum_n_clean_off": 0,
+   "pairs_with_clean_off": 0
+  },
+  "s1_readable/PHerc0343P": {
+   "n": 8,
+   "counts": {
+    "PASS": 8
+   },
+   "plain003_pass": 8,
+   "in_files_among_evaluable": 8,
+   "sum_n_clean": 800000,
+   "sum_n_clean_off": 0,
+   "pairs_with_clean_off": 0
+  },
+  "s1_readable/PHerc0814": {
+   "n": 12,
+   "counts": {
+    "PASS": 12
+   },
+   "plain003_pass": 11,
+   "in_files_among_evaluable": 12,
+   "sum_n_clean": 1200000,
+   "sum_n_clean_off": 1,
+   "pairs_with_clean_off": 1
+  },
+  "s1_readable/PHerc0841": {
+   "n": 2,
+   "counts": {
+    "PASS": 2
+   },
+   "plain003_pass": 2,
+   "in_files_among_evaluable": 2,
+   "sum_n_clean": 200000,
+   "sum_n_clean_off": 0,
+   "pairs_with_clean_off": 0
+  },
+  "s1_readable/PHerc1667": {
+   "n": 19,
+   "counts": {
+    "PASS": 19
+   },
+   "plain003_pass": 19,
+   "in_files_among_evaluable": 19,
+   "sum_n_clean": 1900000,
+   "sum_n_clean_off": 0,
+   "pairs_with_clean_off": 0
+  },
+  "s1_readable/PHercParis4": {
+   "n": 11,
+   "counts": {
+    "PASS": 11
+   },
+   "plain003_pass": 11,
+   "in_files_among_evaluable": 11,
+   "sum_n_clean": 1100000,
+   "sum_n_clean_off": 0,
+   "pairs_with_clean_off": 0
+  },
+  "s2/PHerc0814": {
+   "n": 7,
+   "counts": {
+    "PASS": 7
+   },
+   "plain003_pass": 7,
+   "in_files_among_evaluable": 7,
+   "sum_n_clean": 14228,
+   "sum_n_clean_off": 0,
+   "pairs_with_clean_off": 0
+  },
+  "s2/PHerc1667": {
+   "n": 1,
+   "counts": {
+    "PASS": 1
+   },
+   "plain003_pass": 0,
+   "in_files_among_evaluable": 1,
+   "sum_n_clean": 100000,
+   "sum_n_clean_off": 0,
+   "pairs_with_clean_off": 0
+  },
+  "s2/PHercParis4": {
+   "n": 44,
+   "counts": {
+    "PASS": 44
+   },
+   "plain003_pass": 43,
+   "in_files_among_evaluable": 44,
+   "sum_n_clean": 2561078,
+   "sum_n_clean_off": 1,
+   "pairs_with_clean_off": 1
+  }
+ },
+ "not_evaluable": [
+  {
+   "sample": "PHerc0500P2",
+   "segment": "20250919184428",
+   "set": "s1",
+   "verdict": "NOT_EVALUABLE",
+   "plain003_pass": false,
+   "n_clean": 55,
+   "n_clean_off": 0,
+   "n_clean_nonconverged": 0,
+   "frac_clean": 1.0,
+   "frac_on_clean": 1.0,
+   "inplane_p95_clean": 0.0004599501459331244,
+   "bar": 0.003,
+   "p95_normal_clean": 0.00027701060045648624,
+   "offset_norm_px": NaN,
+   "in_files": false,
+   "direction": "reverse",
+   "error": null
+  },
+  {
+   "sample": "PHerc0500P2",
+   "segment": "20250919184429",
+   "set": "s1",
+   "verdict": "NOT_EVALUABLE",
+   "plain003_pass": false,
+   "n_clean": 24,
+   "n_clean_off": 0,
+   "n_clean_nonconverged": 0,
+   "frac_clean": 0.12698412698412698,
+   "frac_on_clean": 1.0,
+   "inplane_p95_clean": 0.00026141837317701264,
+   "bar": 0.003,
+   "p95_normal_clean": 0.00017334738431360779,
+   "offset_norm_px": NaN,
+   "in_files": false,
+   "direction": "reverse",
+   "error": null
+  },
+  {
+   "sample": "PHerc0500P2",
+   "segment": "20250919184430",
+   "set": "s1",
+   "verdict": "NOT_EVALUABLE",
+   "plain003_pass": false,
+   "n_clean": 23,
+   "n_clean_off": 0,
+   "n_clean_nonconverged": 0,
+   "frac_clean": 0.06353591160220995,
+   "frac_on_clean": 1.0,
+   "inplane_p95_clean": 0.0005140795427944995,
+   "bar": 0.003,
+   "p95_normal_clean": 0.00033972104145067424,
+   "offset_norm_px": NaN,
+   "in_files": false,
+   "direction": "reverse",
+   "error": null
+  }
+ ],
+ "fails": [],
+ "errors": []
+}

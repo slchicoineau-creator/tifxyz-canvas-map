@@ -1,0 +1,99 @@
+{
+ "n": 52,
+ "counts": {
+  "PASS": 52
+ },
+ "verdict": "CONFIRMED",
+ "bars": {
+  "confirmed": "PASS >= 47/52",
+  "refuted": "FAIL >= 6/52"
+ },
+ "missing": [],
+ "families": {
+  "PHerc0814": {
+   "n": 7,
+   "PASS": 7,
+   "FAIL": 0,
+   "NOT_EVALUABLE": 0,
+   "other": 0,
+   "in_files_among_pass": 7,
+   "frac_clean": {
+    "min": 1.0,
+    "median": 1.0,
+    "max": 1.0
+   },
+   "inplane_p95_clean": {
+    "min": 6.868248239443327e-05,
+    "median": 7.88552501177178e-05,
+    "max": 0.0003144980656188711
+   },
+   "frac_on_clean": {
+    "min": 1.0,
+    "median": 1.0,
+    "max": 1.0
+   },
+   "offset_norm_px": {
+    "min": 5.086111636903449,
+    "median": 9.5491918617058,
+    "max": 14.137315159663537
+   }
+  },
+  "PHerc1667": {
+   "n": 1,
+   "PASS": 1,
+   "FAIL": 0,
+   "NOT_EVALUABLE": 0,
+   "other": 0,
+   "in_files_among_pass": 1,
+   "frac_clean": {
+    "min": 1.0,
+    "median": 1.0,
+    "max": 1.0
+   },
+   "inplane_p95_clean": {
+    "min": 0.011236143078500868,
+    "median": 0.011236143078500868,
+    "max": 0.011236143078500868
+   },
+   "frac_on_clean": {
+    "min": 1.0,
+    "median": 1.0,
+    "max": 1.0
+   },
+   "offset_norm_px": {
+    "min": 752.718238579905,
+    "median": 752.718238579905,
+    "max": 752.718238579905
+   }
+  },
+  "PHercParis4": {
+   "n": 44,
+   "PASS": 44,
+   "FAIL": 0,
+   "NOT_EVALUABLE": 0,
+   "other": 0,
+   "in_files_among_pass": 44,
+   "frac_clean": {
+    "min": 0.55424,
+    "median": 0.56153,
+    "max": 1.0
+   },
+   "inplane_p95_clean": {
+    "min": 0.0008648965830456397,
+    "median": 0.0019768097836163926,
+    "max": 0.0032628902909569908
+   },
+   "frac_on_clean": {
+    "min": 0.9999821905609974,
+    "median": 1.0,
+    "max": 1.0
+   },
+   "offset_norm_px": {
+    "min": 115.31138576470875,
+    "median": 321.0615160776297,
+    "max": 386.83804821962616
+   }
+  }
+ },
+ "fails": []
+}

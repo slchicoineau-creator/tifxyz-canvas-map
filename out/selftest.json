@@ -1,0 +1,183 @@
+{
+ "tool_version": "0.1.0",
+ "when": "2026-10-11T08:09:59",
+ "synthetic_pytest_exit": 0,
+ "plumbing_mesh_w00": {
+  "fine_shape": [
+   823,
+   928
+  ],
+  "coarse_shape": [
+   211,
+   238
+  ],
+  "px_fine": 2.403,
+  "px_coarse": 9.366,
+  "fine_valid": 552561,
+  "coarse_valid": 36829,
+  "fine_canvas_valid_box": [
+   119.50012084841546,
+   16319.499879449608,
+   119.50013649463472,
+   18419.499863803387
+  ],
+  "exporter_model": {
+   "k_naive": 0.25656630365150546,
+   "y_a": -7.808050880609244,
+   "y_b": 0.25637910467094116,
+   "y_b_minus_k": -0.00018719898056429596,
+   "y_offset_at_origin_px": -7.808050880609244,
+   "y_offset_box_min_px": -10.863044621361041,
+   "y_offset_box_max_px": -7.830421181409378,
+   "y_offset_box_centre_px": -9.346732901385167,
+   "x_a": -7.807147531818373,
+   "x_b": 0.25646552106309173,
+   "x_b_minus_k": -0.00010078258841372811,
+   "x_offset_at_origin_px": -7.807147531818373,
+   "x_offset_box_min_px": -9.663512405378242,
+   "x_offset_box_max_px": -7.819191064890095,
+   "x_offset_box_centre_px": -8.741351735134685,
+   "y_offset_at_origin_um": -73.13020454778618,
+   "y_offset_box_min_um": -101.74327592366751,
+   "y_offset_box_max_um": -73.33972478508022,
+   "y_offset_box_centre_um": -87.54150035437347,
+   "x_offset_at_origin_um": -73.12174378301088,
+   "x_offset_box_min_um": -90.50845718877261,
+   "x_offset_box_max_um": -73.23454351376063,
+   "x_offset_box_centre_um": -81.87150035127146
+  },
+  "route_I": {
+   "n_sampled": 60000,
+   "n_ok": 59998,
+   "n_ok_first_start": 59782,
+   "frac_ok": 0.9999666666666667,
+   "normal_dist_all_converged_um": {
+    "median": 2.2629629896231553e-07,
+    "p95_abs": 0.002555533352791873
+   },
+   "ay": -7.807284840863419,
+   "by": 0.2563790740049331,
+   "ax": -7.805294357270257,
+   "bx": 0.25646538288108417,
+   "linear_resid_p95_px": 0.0016543367972392039,
+   "offset_vs_naive_centre_px": [
+    -9.346218920892625,
+    -8.740779438705431
+   ],
+   "offset_vs_naive_centre_um": [
+    -87.53668641308032,
+    -81.86614022291506
+   ],
+   "offset_vs_naive_centre_norm_px": 12.796602412880809,
+   "offset_vs_naive_range_px": {
+    "y": [
+     -10.85572498413785,
+     -0.9542635698699087
+    ],
+    "x": [
+     -10.906928788140931,
+     5.99318441953551
+    ]
+   },
+   "vs_exporter_model_px": {
+    "median": 0.00015711031008844664,
+    "p95": 0.00038042252533830844,
+    "max": 16.006695136100255,
+    "n_gt_0p25": 11
+   },
+   "normal_dist_um": {
+    "median": 2.2629629896231553e-07,
+    "p95_abs": 0.0025553260820761533
+   },
+   "split_half_noise_px": {
+    "lr": 0.0006103974027377056,
+    "tb": 0.0007695923619529733
+   }
+  },
+  "route_F": {
+   "ay": -7.808048001324399,
+   "by": 0.2563791011719769,
+   "ax": -7.8071459881601655,
+   "bx": 0.25646552772496833,
+   "n": 29011,
+   "resid_median_um": 0.0018028833448072794,
+   "resid_p95_um": 0.003758011541485174,
+   "offset_vs_naive_centre_px": [
+    -9.346758781837707,
+    -8.74128843921153
+   ],
+   "affine_vs_catalog_um": {
+    "median": 4.89332316803941e-05,
+    "p95": 0.00010166930805531691,
+    "max": 0.0001220909378046655
+   },
+   "status": 3,
+   "nfev": 12
+  },
+  "reproduction": {
+   "fine": {
+    "pred_shape": [
+     823,
+     928
+    ],
+    "pub_shape": [
+     823,
+     928
+    ],
+    "same_shape": true,
+    "n_valid_pub": 552561,
+    "n_valid_pred": 552561,
+    "n_both": 552561,
+    "mask_mismatch": 0,
+    "mask_agreement": 1.0,
+    "err_median_vx": 0.0009765625,
+    "err_p99_vx": 0.0021836601342771385,
+    "err_max_vx": 0.0043677467438512805,
+    "kind": "transform",
+    "replica_info": {
+     "spacing_before": [
+      19.8927409777438,
+      20.012042978414
+     ],
+     "spacing_after": [
+      77.54319335473264,
+      78.01074923973746
+     ],
+     "ratio_x": 3.8980647986865535,
+     "ratio_y": 3.8981901709827325,
+     "resampled": true,
+     "new_shape": [
+      823,
+      928
+     ]
+    }
+   },
+   "coarse": {
+    "pred_shape": [
+     211,
+     238
+    ],
+    "pub_shape": [
+     211,
+     238
+    ],
+    "same_shape": true,
+    "n_valid_pub": 36829,
+    "n_valid_pred": 36829,
+    "n_both": 36829,
+    "mask_mismatch": 0,
+    "mask_agreement": 1.0,
+    "err_median_vx": 0.0,
+    "err_p99_vx": 0.0,
+    "err_max_vx": 0.0,
+    "kind": "copy"
+   }
+  },
+  "lines": {
+   "M1_in_files": "IN_FILES",
+   "M2b_model_matches_route_I": true,
+   "M3_mesh_noise_ok": true,
+   "M2a_reproduced": true
+  }
+ }
+}

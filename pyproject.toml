@@ -1,0 +1,25 @@
+[project]
+name = "tifxyz-canvas-map"
+version = "0.2.0"
+authors = [{ name = "Chris Thomas" }, { name = "Sebastien Chicoineau" }]
+description = "Map pixels between the fine (~2.4 um) and coarse (~7.9-9.4 um) surface volumes of a Vesuvius Challenge segment, and check the published mesh pairs against the exporter's index convention"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.24",
+  "scipy>=1.10",
+  "tifffile>=2023.1",
+  "imagecodecs>=2023.1",   # PHerc0139 tifxyz files are LZW-compressed
+  "numcodecs>=0.12",       # CT route only (remote Zarr chunks)
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[tool.setuptools]
+packages = ["meshpair"]
+
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"

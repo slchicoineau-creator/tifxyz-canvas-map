@@ -1,0 +1,474 @@
+{
+ "rule": "forward M1 verdict VOID_ROUTE_I in out/mesh_records.jsonl, samples PHerc0814/PHercParis4/PHerc1667",
+ "n": 52,
+ "pairs": [
+  {
+   "sample": "PHerc0814",
+   "segment": "20250928235954",
+   "fine_is_copy": true,
+   "coarse_is_copy": false,
+   "fine_key": "PHerc0814/segments/20250928235954-auto_grown_20250928235953722_copy/mesh/20250928235954-on-20260309142202-2.399um.tifxyz",
+   "coarse_key": "PHerc0814/segments/20250928235954-auto_grown_20250928235953722_copy/mesh/20250928235954-on-20250804134230-9.362um.tifxyz",
+   "source_key": "PHerc0814/segments/20250928235954-auto_grown_20250928235953722_copy/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHerc0814",
+   "segment": "20260225160055",
+   "fine_is_copy": true,
+   "coarse_is_copy": false,
+   "fine_key": "PHerc0814/segments/20260225160055-auto_grown_20260225160055913/mesh/20260225160055-on-20260309142202-2.399um.tifxyz",
+   "coarse_key": "PHerc0814/segments/20260225160055-auto_grown_20260225160055913/mesh/20260225160055-on-20250804134230-9.362um.tifxyz",
+   "source_key": "PHerc0814/segments/20260225160055-auto_grown_20260225160055913/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHerc0814",
+   "segment": "20260226000000",
+   "fine_is_copy": true,
+   "coarse_is_copy": false,
+   "fine_key": "PHerc0814/segments/20260226000000-46527_2um_try2/mesh/20260226000000-on-20260309142202-2.399um.tifxyz",
+   "coarse_key": "PHerc0814/segments/20260226000000-46527_2um_try2/mesh/20260226000000-on-20250804134230-9.362um.tifxyz",
+   "source_key": "PHerc0814/segments/20260226000000-46527_2um_try2/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHerc0814",
+   "segment": "20260226110425",
+   "fine_is_copy": true,
+   "coarse_is_copy": false,
+   "fine_key": "PHerc0814/segments/20260226110425-auto_grown_20260226110425097_abf/mesh/20260226110425-on-20260309142202-2.399um.tifxyz",
+   "coarse_key": "PHerc0814/segments/20260226110425-auto_grown_20260226110425097_abf/mesh/20260226110425-on-20250804134230-9.362um.tifxyz",
+   "source_key": "PHerc0814/segments/20260226110425-auto_grown_20260226110425097_abf/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHerc0814",
+   "segment": "20260226113324",
+   "fine_is_copy": true,
+   "coarse_is_copy": false,
+   "fine_key": "PHerc0814/segments/20260226113324-auto_grown_20260226113324624_abf/mesh/20260226113324-on-20260309142202-2.399um.tifxyz",
+   "coarse_key": "PHerc0814/segments/20260226113324-auto_grown_20260226113324624_abf/mesh/20260226113324-on-20250804134230-9.362um.tifxyz",
+   "source_key": "PHerc0814/segments/20260226113324-auto_grown_20260226113324624_abf/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHerc0814",
+   "segment": "20260226121302",
+   "fine_is_copy": true,
+   "coarse_is_copy": false,
+   "fine_key": "PHerc0814/segments/20260226121302-auto_grown_20260226121302716_abf/mesh/20260226121302-on-20260309142202-2.399um.tifxyz",
+   "coarse_key": "PHerc0814/segments/20260226121302-auto_grown_20260226121302716_abf/mesh/20260226121302-on-20250804134230-9.362um.tifxyz",
+   "source_key": "PHerc0814/segments/20260226121302-auto_grown_20260226121302716_abf/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHerc0814",
+   "segment": "20260226123353",
+   "fine_is_copy": true,
+   "coarse_is_copy": false,
+   "fine_key": "PHerc0814/segments/20260226123353-auto_grown_20260226123353106/mesh/20260226123353-on-20260309142202-2.399um.tifxyz",
+   "coarse_key": "PHerc0814/segments/20260226123353-auto_grown_20260226123353106/mesh/20260226123353-on-20250804134230-9.362um.tifxyz",
+   "source_key": "PHerc0814/segments/20260226123353-auto_grown_20260226123353106/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHerc1667",
+   "segment": "20260612121456",
+   "fine_is_copy": false,
+   "coarse_is_copy": true,
+   "fine_key": "PHerc1667/segments/20260612121456-w011_20260108140509268_merged_v4_flatboi_straightened_v4/mesh/20260612121456-on-20251217075048-2.399um.tifxyz",
+   "coarse_key": "PHerc1667/segments/20260612121456-w011_20260108140509268_merged_v4_flatboi_straightened_v4/mesh/20260612121456-on-20231117161658-7.91um.tifxyz",
+   "source_key": "PHerc1667/segments/20260612121456-w011_20260108140509268_merged_v4_flatboi_straightened_v4/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260602204401",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260602204401-5753_-7/mesh/20260602204401-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260602204401-5753_-7/mesh/20260602204401-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260602204401-5753_-7/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260602225659",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260602225659-5753_0/mesh/20260602225659-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260602225659-5753_0/mesh/20260602225659-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260602225659-5753_0/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260603005223",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260603005223-5753_-1/mesh/20260603005223-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260603005223-5753_-1/mesh/20260603005223-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260603005223-5753_-1/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260603024952",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260603024952-5753_-2/mesh/20260603024952-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260603024952-5753_-2/mesh/20260603024952-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260603024952-5753_-2/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260603042357",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260603042357-5753_-3/mesh/20260603042357-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260603042357-5753_-3/mesh/20260603042357-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260603042357-5753_-3/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260603145540",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260603145540-5753_-4/mesh/20260603145540-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260603145540-5753_-4/mesh/20260603145540-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260603145540-5753_-4/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260603185441",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260603185441-5753_-6/mesh/20260603185441-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260603185441-5753_-6/mesh/20260603185441-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260603185441-5753_-6/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260603190005",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260603190005-5753_-5/mesh/20260603190005-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260603190005-5753_-5/mesh/20260603190005-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260603190005-5753_-5/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260603193311",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260603193311-5753_-1_copy/mesh/20260603193311-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260603193311-5753_-1_copy/mesh/20260603193311-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260603193311-5753_-1_copy/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260603222816",
+   "fine_is_copy": true,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260603222816-20231005123336_v2_flatboi/mesh/20260603222816-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260603222816-20231005123336_v2_flatboi/mesh/20260603222816-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260603222816-20231005123336_v2_flatboi/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260604223808",
+   "fine_is_copy": true,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260604223808-20231210121321_v8/mesh/20260604223808-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260604223808-20231210121321_v8/mesh/20260604223808-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260604223808-20231210121321_v8/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623141135",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623141135-w046-052_jordi/mesh/20260623141135-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623141135-w046-052_jordi/mesh/20260623141135-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623141135-w046-052_jordi/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623141649",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623141649-w053-058_jordi/mesh/20260623141649-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623141649-w053-058_jordi/mesh/20260623141649-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623141649-w053-058_jordi/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623141924",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623141924-w010-027/mesh/20260623141924-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623141924-w010-027/mesh/20260623141924-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623141924-w010-027/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623142658",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623142658-w028-037/mesh/20260623142658-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623142658-w028-037/mesh/20260623142658-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623142658-w028-037/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623143441",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623143441-w038-045/mesh/20260623143441-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623143441-w038-045/mesh/20260623143441-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623143441-w038-045/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623144224",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623144224-w046-052/mesh/20260623144224-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623144224-w046-052/mesh/20260623144224-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623144224-w046-052/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623144957",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623144957-w053-058/mesh/20260623144957-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623144957-w053-058/mesh/20260623144957-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623144957-w053-058/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623145652",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623145652-w059-063/mesh/20260623145652-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623145652-w059-063/mesh/20260623145652-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623145652-w059-063/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623150417",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623150417-w064-068/mesh/20260623150417-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623150417-w064-068/mesh/20260623150417-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623150417-w064-068/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623151041",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623151041-w069-072/mesh/20260623151041-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623151041-w069-072/mesh/20260623151041-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623151041-w069-072/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623151729",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623151729-w073-076/mesh/20260623151729-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623151729-w073-076/mesh/20260623151729-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623151729-w073-076/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623152443",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623152443-w077-080/mesh/20260623152443-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623152443-w077-080/mesh/20260623152443-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623152443-w077-080/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623153216",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623153216-w081-084/mesh/20260623153216-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623153216-w081-084/mesh/20260623153216-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623153216-w081-084/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623154006",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623154006-w085-088/mesh/20260623154006-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623154006-w085-088/mesh/20260623154006-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623154006-w085-088/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623154617",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623154617-w089-091/mesh/20260623154617-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623154617-w089-091/mesh/20260623154617-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623154617-w089-091/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623155240",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623155240-w092-094/mesh/20260623155240-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623155240-w092-094/mesh/20260623155240-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623155240-w092-094/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623155914",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623155914-w095-097/mesh/20260623155914-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623155914-w095-097/mesh/20260623155914-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623155914-w095-097/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623160554",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623160554-w098-100/mesh/20260623160554-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623160554-w098-100/mesh/20260623160554-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623160554-w098-100/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623161233",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623161233-w101-103/mesh/20260623161233-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623161233-w101-103/mesh/20260623161233-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623161233-w101-103/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623161921",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623161921-w104-106/mesh/20260623161921-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623161921-w104-106/mesh/20260623161921-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623161921-w104-106/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623162614",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623162614-w107-109/mesh/20260623162614-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623162614-w107-109/mesh/20260623162614-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623162614-w107-109/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623163339",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623163339-w110-112/mesh/20260623163339-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623163339-w110-112/mesh/20260623163339-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623163339-w110-112/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623164141",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623164141-w113-115/mesh/20260623164141-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623164141-w113-115/mesh/20260623164141-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623164141-w113-115/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623164704",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623164704-w116-117/mesh/20260623164704-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623164704-w116-117/mesh/20260623164704-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623164704-w116-117/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623165230",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623165230-w118-119/mesh/20260623165230-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623165230-w118-119/mesh/20260623165230-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623165230-w118-119/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623165742",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623165742-w120-121/mesh/20260623165742-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623165742-w120-121/mesh/20260623165742-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623165742-w120-121/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623170305",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623170305-w122-123/mesh/20260623170305-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623170305-w122-123/mesh/20260623170305-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623170305-w122-123/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623170833",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623170833-w124-125/mesh/20260623170833-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623170833-w124-125/mesh/20260623170833-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623170833-w124-125/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623171400",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623171400-w126-127/mesh/20260623171400-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623171400-w126-127/mesh/20260623171400-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623171400-w126-127/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260623171929",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260623171929-w128-129/mesh/20260623171929-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260623171929-w128-129/mesh/20260623171929-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260623171929-w128-129/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260701183124",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260701183124-w010-027/mesh/20260701183124-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260701183124-w010-027/mesh/20260701183124-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260701183124-w010-027/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260701183125",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260701183125-w028-037/mesh/20260701183125-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260701183125-w028-037/mesh/20260701183125-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260701183125-w028-037/mesh/intermediate/tifxyz_normalized"
+  },
+  {
+   "sample": "PHercParis4",
+   "segment": "20260701183126",
+   "fine_is_copy": false,
+   "coarse_is_copy": false,
+   "fine_key": "PHercParis4/segments/20260701183126-w038-045/mesh/20260701183126-on-20260411134726-2.4um.tifxyz",
+   "coarse_key": "PHercParis4/segments/20260701183126-w038-045/mesh/20260701183126-on-20230205180739-7.91um.tifxyz",
+   "source_key": "PHercParis4/segments/20260701183126-w038-045/mesh/intermediate/tifxyz_normalized"
+  }
+ ]
+}

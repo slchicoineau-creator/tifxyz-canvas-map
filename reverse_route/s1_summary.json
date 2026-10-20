@@ -1,0 +1,127 @@
+{
+ "prereg": "prereg/2026-10-13_partner_tifxyz_reverse_route.md @ ed1e660c",
+ "S0_PASS": true,
+ "S1": {
+  "per_sample": {
+   "PHerc0500P2": {
+    "n": 46,
+    "n_err": 0,
+    "n_pass": 1,
+    "n_in_files": 37,
+    "frac_on_median": 0.9089278285811642,
+    "frac_on_min": 0.5911602209944752,
+    "n_frac_ok": 1,
+    "median_of_median_normal": 0.003037734986986016,
+    "p95_normal_median": 0.07116129383805847,
+    "inplane_p95_median": 0.020966939133868503,
+    "n_inplane_ok": 1
+   },
+   "PHerc0139": {
+    "n": 38,
+    "n_err": 0,
+    "n_pass": 0,
+    "n_in_files": 35,
+    "frac_on_median": 0.8552500000000001,
+    "frac_on_min": 0.82301,
+    "n_frac_ok": 0,
+    "median_of_median_normal": 0.00027001461364833777,
+    "p95_normal_median": 0.11845385795874971,
+    "inplane_p95_median": 0.01142549626477602,
+    "n_inplane_ok": 0
+   }
+  },
+  "pairs": 84,
+  "pair_rule_pass": 1,
+  "needed": 76,
+  "median_of_pair_median_normal_0139": 0.00027001461364833777,
+  "kill_threshold": 0.1,
+  "verdict": "INCONCLUSIVE (PASS bar missed: 1/84 vs 76; KILL not triggered: 0139 median 0.00027 < 0.1 coarse vx)"
+ },
+ "S1_readable": {
+  "per_sample": {
+   "PHerc0814": {
+    "n": 12,
+    "n_err": 0,
+    "n_pass": 0,
+    "n_in_files": 12,
+    "frac_on_median": 0.3380428268793848,
+    "frac_on_min": 0.3047450744472853,
+    "n_frac_ok": 0,
+    "median_of_median_normal": 0.08140219982636644,
+    "p95_normal_median": 0.3394041789644312,
+    "inplane_p95_median": 0.03493229544049559,
+    "n_inplane_ok": 0
+   },
+   "PHerc0343P": {
+    "n": 8,
+    "n_err": 0,
+    "n_pass": 0,
+    "n_in_files": 8,
+    "frac_on_median": 0.4191566487326769,
+    "frac_on_min": 0.3243060257278267,
+    "n_frac_ok": 0,
+    "median_of_median_normal": 0.0669736263871111,
+    "p95_normal_median": 0.3741758408680502,
+    "inplane_p95_median": 0.04757389903598894,
+    "n_inplane_ok": 0
+   },
+   "PHerc0841": {
+    "n": 2,
+    "n_err": 0,
+    "n_pass": 0,
+    "n_in_files": 2,
+    "frac_on_median": 0.2760229360621046,
+    "frac_on_min": 0.265342808190321,
+    "n_frac_ok": 0,
+    "median_of_median_normal": 0.10222115938234846,
+    "p95_normal_median": 0.5125685141741678,
+    "inplane_p95_median": 0.16599742453515964,
+    "n_inplane_ok": 0
+   },
+   "PHerc1667": {
+    "n": 19,
+    "n_err": 0,
+    "n_pass": 0,
+    "n_in_files": 19,
+    "frac_on_median": 0.24021,
+    "frac_on_min": 0.2031,
+    "n_frac_ok": 0,
+    "median_of_median_normal": 0.12822362887271954,
+    "p95_normal_median": 0.6400547476007217,
+    "inplane_p95_median": 0.14095283328907846,
+    "n_inplane_ok": 0
+   },
+   "PHercParis4": {
+    "n": 11,
+    "n_err": 0,
+    "n_pass": 0,
+    "n_in_files": 11,
+    "frac_on_median": 0.25498,
+    "frac_on_min": 0.23398,
+    "n_frac_ok": 0,
+    "median_of_median_normal": 0.1152530172668869,
+    "p95_normal_median": 0.5213022709756306,
+    "inplane_p95_median": 0.07035293913778708,
+    "n_inplane_ok": 0
+   },
+   "PHerc0009B": {
+    "n": 18,
+    "n_err": 0,
+    "n_pass": 0,
+    "n_in_files": 18,
+    "frac_on_median": 0.4271442042986853,
+    "frac_on_min": 0.31780452748832194,
+    "n_frac_ok": 0,
+    "median_of_median_normal": 0.06399089786453163,
+    "p95_normal_median": 0.28915306656161066,
+    "inplane_p95_median": 0.02318230285587943,
+    "n_inplane_ok": 0
+   }
+  },
+  "n": 70,
+  "in_files": 70,
+  "gate": "70/70 IN_FILES met",
+  "pair_rule_pass": 0
+ },
+ "S2": "not run (S1 did not PASS)"
+}

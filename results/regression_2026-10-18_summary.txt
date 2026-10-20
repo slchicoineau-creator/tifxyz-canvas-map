@@ -1,0 +1,15 @@
+platform Windows numpy 2.5.4 scipy 1.18.1
+
+mesh: 5 pairs; non-float differences: ['route_F.nfev. 5 vs 6']
+   exporter_model               max abs diff 0   max rel diff 0
+   fine_canvas_valid_box        max abs diff 0   max rel diff 0
+   px_coarse                    max abs diff 0   max rel diff 0
+   px_fine                      max abs diff 0   max rel diff 0
+   reproduction                 max abs diff 0   max rel diff 0
+   route_F                      max abs diff 9.01e-08   max rel diff 3.13e-05
+   route_I                      max abs diff 2.88e-11   max rel diff 1.26e-06
+   verdicts: {'20260220214732': True, '20260206000002': True, '20251212185248': True, '20260603185441': True, '20250919131352': True}
+
+lattice-clean: 5 pairs; non-float differences: none
+   lattice_clean                max abs diff 8.38e-12   max rel diff 4.34e-09
+   verdicts: {'20260220214732': True, '20260206000002': True, '20251212185248': True, '20260603185441': True, '20250919131352': True}

@@ -1,0 +1,72 @@
+MESH route: 5 rerun pairs
+  ('PHerc0841', '20260220214732') 23 diffs
+      route_F.affine_vs_catalog_um.max. 0.00020341560088104626 vs 0.00020341566837608872 (diff 6.75e-11)
+      route_F.affine_vs_catalog_um.median. 5.36348041691734e-05 vs 5.3634995279317785e-05 (diff 1.91e-10)
+      route_F.affine_vs_catalog_um.p95. 0.0001601181077141144 vs 0.00016011819153374148 (diff 8.38e-11)
+      route_F.ax. -7.806563349271985 vs -7.806563349273651 (diff 1.67e-12)
+      route_F.ay. -7.805337620712749 vs -7.805337620635421 (diff 7.73e-11)
+      route_F.bx. 0.2565217366566678 vs 0.25652173665666783 (diff 5.55e-17)
+      route_F.by. 0.2566371595614015 vs 0.2566371595613947 (diff 6.77e-15)
+      route_F.offset_vs_naive_centre_px.[0]. -7.15704147323504 vs -7.157041473220033 (diff 1.5e-11)
+  ('PHerc0139', '20260206000002') 21 diffs
+      route_F.affine_vs_catalog_um.max. 0.725048851461649 vs 0.7250489415368812 (diff 9.01e-08)
+      route_F.affine_vs_catalog_um.median. 0.3893240581536869 vs 0.3893240997947708 (diff 4.16e-08)
+      route_F.affine_vs_catalog_um.p95. 0.5280381836750937 vs 0.5280382609094562 (diff 7.72e-08)
+      route_F.ax. -7.828095484156611 vs -7.8280954950056785 (diff 1.08e-08)
+      route_F.ay. -7.77969410159313 vs -7.779694091270719 (diff 1.03e-08)
+      route_F.bx. 0.2569189200741711 vs 0.25691892007424044 (diff 6.93e-14)
+      route_F.by. 0.2573904790267412 vs 0.25739047902615897 (diff 5.82e-13)
+      route_F.nfev. 5 vs 6
+  ('PHerc1667', '20251212185248') 23 diffs
+      route_F.affine_vs_catalog_um.max. 4.34552379294946e-05 vs 4.3454401929301555e-05 (diff 8.36e-10)
+      route_F.affine_vs_catalog_um.median. 2.190592736780425e-05 vs 2.1905833247196177e-05 (diff 9.41e-11)
+      route_F.affine_vs_catalog_um.p95. 3.6917623238402326e-05 vs 3.691646855454131e-05 (diff 1.15e-09)
+      route_F.ax. -7.288379024553886 vs -7.288379024659612 (diff 1.06e-10)
+      route_F.ay. -7.300355430235331 vs -7.300355430254193 (diff 1.89e-11)
+      route_F.bx. 0.3058748586364231 vs 0.30587485863642244 (diff 6.66e-16)
+      route_F.by. 0.30473685765101854 vs 0.3047368576510278 (diff 9.27e-15)
+      route_F.offset_vs_naive_centre_px.[0]. 20.23212455220255 vs 20.232124552358982 (diff 1.56e-10)
+  ('PHercParis4', '20260603185441') 25 diffs
+      route_F.affine_vs_catalog_um.max. 1.1341618333935164 vs 1.1341618304274133 (diff 2.97e-09)
+      route_F.affine_vs_catalog_um.median. 0.38085584404507555 vs 0.38085580353013987 (diff 4.05e-08)
+      route_F.affine_vs_catalog_um.p95. 0.8167426325461858 vs 0.8167426217080441 (diff 1.08e-08)
+      route_F.ax. -7.278146515536697 vs -7.278146515458842 (diff 7.79e-11)
+      route_F.ay. -7.262671947939418 vs -7.2626719699702535 (diff 2.2e-08)
+      route_F.bx. 0.30668585510466134 vs 0.3066858551047229 (diff 6.16e-14)
+      route_F.by. 0.30655597834882264 vs 0.30655597834925463 (diff 4.32e-13)
+      route_F.offset_vs_naive_centre_px.[0]. 118.28173149578652 vs 118.28173149101167 (diff 4.77e-09)
+  ('PHerc0009B', '20250919131352') 23 diffs
+      route_F.affine_vs_catalog_um.max. 0.00013208750832630902 vs 0.0001320876385748942 (diff 1.3e-10)
+      route_F.affine_vs_catalog_um.median. 6.162700894668706e-05 vs 6.162707754228546e-05 (diff 6.86e-11)
+      route_F.affine_vs_catalog_um.p95. 9.409668465196025e-05 vs 9.40968116625503e-05 (diff 1.27e-10)
+      route_F.ax. -7.583365946767118 vs -7.583365946764259 (diff 2.86e-12)
+      route_F.ay. -7.585086766980964 vs -7.585086766968828 (diff 1.21e-11)
+      route_F.bx. 0.27777779480650583 vs 0.2777777948065056 (diff 2.22e-16)
+      route_F.by. 0.27761629601911947 vs 0.27761629601911864 (diff 8.33e-16)
+      route_F.offset_vs_naive_centre_px.[0]. -11.396757522508778 vs -11.396757522507869 (diff 9.09e-13)
+LATTICE-CLEAN route: 5 rerun pairs
+  ('PHerc0841', '20260220214732') PASS forward 4 diffs
+      lattice_clean.inplane_max_clean. 0.01151899858944277 vs 0.011518998589442771 (diff 1.73e-18)
+      lattice_clean.inplane_median_clean. 0.00019546212566727176 vs 0.00019546212566727173 (diff 2.71e-20)
+      lattice_clean.offset_norm_px. 10.89623182942662 vs 10.896231829427306 (diff 6.86e-13)
+      lattice_clean.offset_vs_naive_centre_px.[1]. -8.21611681619197 vs -8.21611681619288 (diff 9.09e-13)
+  ('PHerc0139', '20260206000002') PASS reverse 3 diffs
+      lattice_clean.offset_norm_px. 11.401057535037971 vs 11.401057535039946 (diff 1.98e-12)
+      lattice_clean.offset_vs_naive_centre_px.[0]. 9.21044328011385 vs 9.210443280114305 (diff 4.55e-13)
+      lattice_clean.offset_vs_naive_centre_px.[1]. 6.719512445189139 vs 6.719512445191867 (diff 2.73e-12)
+  ('PHerc1667', '20251212185248') PASS forward 7 diffs
+      lattice_clean.inplane_max_clean. 0.009884214621104365 vs 0.009884214629488393 (diff 8.38e-12)
+      lattice_clean.inplane_median_clean. 0.0003659448299579138 vs 0.0003659448300133069 (diff 5.54e-14)
+      lattice_clean.max_normal_clean. 0.0014167756977021438 vs 0.0014167756979007221 (diff 1.99e-13)
+      lattice_clean.median_normal_clean. 7.393205780856795e-05 vs 7.393205812951892e-05 (diff 3.21e-13)
+      lattice_clean.offset_norm_px. 38.88812074727601 vs 38.88812074727291 (diff 3.11e-12)
+      lattice_clean.offset_vs_naive_centre_px.[1]. 33.21064771511192 vs 33.21064771510828 (diff 3.64e-12)
+      lattice_clean.p95_normal_clean. 0.00028279095013416665 vs 0.00028279095015677975 (diff 2.26e-14)
+  ('PHercParis4', '20260603185441') PASS reverse 2 diffs
+      lattice_clean.offset_norm_px. 119.2424145740285 vs 119.24241457402856 (diff 5.68e-14)
+      lattice_clean.offset_vs_naive_centre_px.[1]. 15.070736824837695 vs 15.07073682483815 (diff 4.55e-13)
+  ('PHerc0009B', '20250919131352') PASS forward 4 diffs
+      lattice_clean.inplane_max_clean. 0.001467215295707411 vs 0.0014672152957074113 (diff 2.17e-19)
+      lattice_clean.offset_norm_px. 14.380185296386967 vs 14.38018529638741 (diff 4.42e-13)
+      lattice_clean.offset_vs_naive_centre_px.[0]. -11.396751472728738 vs -11.396751472729648 (diff 9.09e-13)
+      lattice_clean.offset_vs_naive_centre_px.[1]. -8.769480316830595 vs -8.76948031683014 (diff 4.55e-13)

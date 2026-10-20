@@ -1,0 +1,557 @@
+{
+ "PHerc0009B/2.401/8.64": {
+  "n": 18,
+  "M1_counts": {
+   "IN_FILES": 18
+  },
+  "noisy": 0,
+  "n_nonvoid": 18,
+  "M1_family": "CONFIRMED IN FILES",
+  "M2a_pass": 18,
+  "M2b_pass": 18,
+  "M2b_evaluable": 18,
+  "M2_both": 18,
+  "M2_family": "EXPORTER CONVENTION CONFIRMED",
+  "routeI_offset_centre_px_min_med_max": [
+   11.2549,
+   12.9719,
+   14.3802
+  ],
+  "routeI_offset_centre_um_min_med_max": [
+   97.2424,
+   112.0775,
+   124.2448
+  ],
+  "model_offset_centre_um_min_med_max": [
+   97.2433,
+   112.0766,
+   124.2468
+  ],
+  "model_drift_rel_min_med_max": [
+   0.0004,
+   0.0008,
+   0.0013
+  ],
+  "model_offset_max_abs_over_valid_box_um": [
+   86.6391,
+   109.976,
+   131.1655
+  ],
+  "routeI_frac_ok": [
+   0.9999,
+   1.0,
+   1.0
+  ],
+  "routeI_vs_model_p95_px": [
+   0.0006,
+   0.0006,
+   0.0007
+  ],
+  "routeF_vs_model_centre_px": [
+   0.0,
+   0.0001,
+   0.0002
+  ],
+  "routeF_affine_vs_catalog_max_um": [
+   0.0001,
+   0.0002,
+   0.0003
+  ],
+  "repro_err_p99_vx_max": [
+   0.0028,
+   0.0029,
+   0.0034
+  ],
+  "repro_mask_agree_min": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "PHerc0139/2.399/9.362": {
+  "n": 38,
+  "M1_counts": {
+   "VOID_ROUTE_I": 38
+  },
+  "noisy": 0,
+  "n_nonvoid": 0,
+  "M1_family": "VOID (no non-void pair)",
+  "M2a_pass": 38,
+  "M2b_pass": 0,
+  "M2b_evaluable": 0,
+  "M2_both": 0,
+  "M2_family": "NOT EXPLAINED by the frozen tree (M2b not evaluable: route I VOID on every pair)",
+  "routeI_offset_centre_px_min_med_max": [
+   1.7969,
+   7.3211,
+   12.254
+  ],
+  "routeI_offset_centre_um_min_med_max": [
+   16.8224,
+   68.5404,
+   114.7221
+  ],
+  "model_offset_centre_um_min_med_max": [
+   16.8177,
+   68.5405,
+   114.7212
+  ],
+  "model_drift_rel_min_med_max": [
+   0.002,
+   0.0039,
+   0.0052
+  ],
+  "model_offset_max_abs_over_valid_box_um": [
+   72.6672,
+   197.4153,
+   300.5791
+  ],
+  "routeI_frac_ok": [
+   0.1818,
+   0.2718,
+   0.3185
+  ],
+  "routeI_vs_model_p95_px": [
+   0.0191,
+   0.0252,
+   0.0475
+  ],
+  "routeF_vs_model_centre_px": [
+   0.0007,
+   0.0128,
+   0.1193
+  ],
+  "routeF_affine_vs_catalog_max_um": [
+   0.3263,
+   0.6229,
+   1.5091
+  ],
+  "repro_err_p99_vx_max": [
+   0.0024,
+   0.0028,
+   0.0041
+  ],
+  "repro_mask_agree_min": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "PHerc0343P/2.215/8.64": {
+  "n": 8,
+  "M1_counts": {
+   "IN_FILES": 8
+  },
+  "noisy": 0,
+  "n_nonvoid": 8,
+  "M1_family": "CONFIRMED IN FILES",
+  "M2a_pass": 8,
+  "M2b_pass": 8,
+  "M2b_evaluable": 8,
+  "M2_both": 8,
+  "M2_family": "EXPORTER CONVENTION CONFIRMED",
+  "routeI_offset_centre_px_min_med_max": [
+   9.8867,
+   10.3441,
+   11.6093
+  ],
+  "routeI_offset_centre_um_min_med_max": [
+   85.4209,
+   89.3733,
+   100.3045
+  ],
+  "model_offset_centre_um_min_med_max": [
+   85.4211,
+   89.3734,
+   100.3045
+  ],
+  "model_drift_rel_min_med_max": [
+   0.0005,
+   0.001,
+   0.0019
+  ],
+  "model_offset_max_abs_over_valid_box_um": [
+   67.4127,
+   71.143,
+   93.2031
+  ],
+  "routeI_frac_ok": [
+   1.0,
+   1.0,
+   1.0
+  ],
+  "routeI_vs_model_p95_px": [
+   0.0003,
+   0.0003,
+   0.0003
+  ],
+  "routeF_vs_model_centre_px": [
+   0.0,
+   0.0001,
+   0.0001
+  ],
+  "routeF_affine_vs_catalog_max_um": [
+   0.0,
+   0.0001,
+   0.0001
+  ],
+  "repro_err_p99_vx_max": [
+   0.0014,
+   0.0015,
+   0.0015
+  ],
+  "repro_mask_agree_min": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "PHerc0500P2/2.215/9.362": {
+  "n": 46,
+  "M1_counts": {
+   "VOID_ROUTE_I": 46
+  },
+  "noisy": 0,
+  "n_nonvoid": 0,
+  "M1_family": "VOID (no non-void pair)",
+  "M2a_pass": 46,
+  "M2b_pass": 0,
+  "M2b_evaluable": 0,
+  "M2_both": 0,
+  "M2_family": "NOT EXPLAINED by the frozen tree (M2b not evaluable: route I VOID on every pair)",
+  "routeI_offset_centre_px_min_med_max": [
+   0.9301,
+   6.0162,
+   14.2016
+  ],
+  "routeI_offset_centre_um_min_med_max": [
+   8.7075,
+   56.3234,
+   132.9558
+  ],
+  "model_offset_centre_um_min_med_max": [
+   8.6391,
+   56.4757,
+   132.9695
+  ],
+  "model_drift_rel_min_med_max": [
+   0.0029,
+   0.0057,
+   0.0265
+  ],
+  "model_offset_max_abs_over_valid_box_um": [
+   71.908,
+   111.1605,
+   230.2322
+  ],
+  "routeI_frac_ok": [
+   0.0521,
+   0.2647,
+   0.3545
+  ],
+  "routeI_vs_model_p95_px": [
+   0.0192,
+   0.1028,
+   2.364
+  ],
+  "routeF_vs_model_centre_px": [
+   0.0074,
+   0.1278,
+   1.0421
+  ],
+  "routeF_affine_vs_catalog_max_um": [
+   2.3491,
+   10.0024,
+   151.7931
+  ],
+  "repro_err_p99_vx_max": [
+   0.0022,
+   0.0024,
+   0.0028
+  ],
+  "repro_mask_agree_min": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "PHerc0814/2.399/9.362": {
+  "n": 19,
+  "M1_counts": {
+   "IN_FILES": 12,
+   "VOID_ROUTE_I": 7
+  },
+  "noisy": 0,
+  "n_nonvoid": 12,
+  "M1_family": "CONFIRMED IN FILES",
+  "M2a_pass": 19,
+  "M2b_pass": 12,
+  "M2b_evaluable": 12,
+  "M2_both": 12,
+  "M2_family": "NOT EXPLAINED",
+  "routeI_offset_centre_px_min_med_max": [
+   4.1214,
+   14.1365,
+   75.9706
+  ],
+  "routeI_offset_centre_um_min_med_max": [
+   38.5848,
+   132.3463,
+   711.2369
+  ],
+  "model_offset_centre_um_min_med_max": [
+   38.5859,
+   132.3535,
+   711.228
+  ],
+  "model_drift_rel_min_med_max": [
+   0.003,
+   0.0033,
+   0.018
+  ],
+  "model_offset_max_abs_over_valid_box_um": [
+   72.6014,
+   270.4646,
+   1494.2588
+  ],
+  "routeI_frac_ok": [
+   0.0134,
+   0.9891,
+   1.0
+  ],
+  "routeI_vs_model_p95_px": [
+   0.0005,
+   0.002,
+   0.1203
+  ],
+  "routeF_vs_model_centre_px": [
+   0.0001,
+   0.0004,
+   0.2274
+  ],
+  "routeF_affine_vs_catalog_max_um": [
+   0.0001,
+   0.0007,
+   48.2394
+  ],
+  "repro_err_p99_vx_max": [
+   0.0005,
+   0.0022,
+   0.0024
+  ],
+  "repro_mask_agree_min": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "PHerc0841/2.403/9.366": {
+  "n": 2,
+  "M1_counts": {
+   "IN_FILES": 2
+  },
+  "noisy": 0,
+  "n_nonvoid": 2,
+  "M1_family": "CONFIRMED IN FILES",
+  "M2a_pass": 2,
+  "M2b_pass": 2,
+  "M2b_evaluable": 2,
+  "M2_both": 2,
+  "M2_family": "EXPORTER CONVENTION CONFIRMED",
+  "routeI_offset_centre_px_min_med_max": [
+   10.8955,
+   11.2661,
+   11.6366
+  ],
+  "routeI_offset_centre_um_min_med_max": [
+   102.0474,
+   105.5179,
+   108.9884
+  ],
+  "model_offset_centre_um_min_med_max": [
+   102.0529,
+   105.521,
+   108.9891
+  ],
+  "model_drift_rel_min_med_max": [
+   0.0003,
+   0.0003,
+   0.0003
+  ],
+  "model_offset_max_abs_over_valid_box_um": [
+   80.7369,
+   82.7817,
+   84.8264
+  ],
+  "routeI_frac_ok": [
+   0.9999,
+   0.9999,
+   1.0
+  ],
+  "routeI_vs_model_p95_px": [
+   0.0003,
+   0.0004,
+   0.0004
+  ],
+  "routeF_vs_model_centre_px": [
+   0.0,
+   0.0001,
+   0.0001
+  ],
+  "routeF_affine_vs_catalog_max_um": [
+   0.0001,
+   0.0001,
+   0.0002
+  ],
+  "repro_err_p99_vx_max": [
+   0.0022,
+   0.0022,
+   0.0022
+  ],
+  "repro_mask_agree_min": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "PHerc1667/2.399/7.91": {
+  "n": 20,
+  "M1_counts": {
+   "IN_FILES": 19,
+   "VOID_ROUTE_I": 1
+  },
+  "noisy": 0,
+  "n_nonvoid": 19,
+  "M1_family": "CONFIRMED IN FILES",
+  "M2a_pass": 20,
+  "M2b_pass": 19,
+  "M2b_evaluable": 19,
+  "M2_both": 19,
+  "M2_family": "EXPORTER CONVENTION CONFIRMED",
+  "routeI_offset_centre_px_min_med_max": [
+   24.0969,
+   38.4749,
+   752.706
+  ],
+  "routeI_offset_centre_um_min_med_max": [
+   190.6063,
+   304.3366,
+   5953.9048
+  ],
+  "model_offset_centre_um_min_med_max": [
+   190.6065,
+   304.336,
+   5954.0342
+  ],
+  "model_drift_rel_min_med_max": [
+   0.008,
+   0.0083,
+   0.0087
+  ],
+  "model_offset_max_abs_over_valid_box_um": [
+   388.2655,
+   586.1764,
+   11960.6855
+  ],
+  "routeI_frac_ok": [
+   0.2032,
+   0.9996,
+   1.0
+  ],
+  "routeI_vs_model_p95_px": [
+   0.0007,
+   0.0008,
+   0.004
+  ],
+  "routeF_vs_model_centre_px": [
+   0.0001,
+   0.0002,
+   0.0041
+  ],
+  "routeF_affine_vs_catalog_max_um": [
+   0.0,
+   0.0001,
+   0.0008
+  ],
+  "repro_err_p99_vx_max": [
+   0.0039,
+   0.0039,
+   0.0039
+  ],
+  "repro_mask_agree_min": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ },
+ "PHercParis4/2.4/7.91": {
+  "n": 55,
+  "M1_counts": {
+   "IN_FILES": 11,
+   "VOID_ROUTE_I": 44
+  },
+  "noisy": 0,
+  "n_nonvoid": 11,
+  "M1_family": "CONFIRMED IN FILES",
+  "M2a_pass": 55,
+  "M2b_pass": 11,
+  "M2b_evaluable": 11,
+  "M2_both": 11,
+  "M2_family": "NOT EXPLAINED",
+  "routeI_offset_centre_px_min_med_max": [
+   84.3697,
+   296.0553,
+   386.8382
+  ],
+  "routeI_offset_centre_um_min_med_max": [
+   667.3639,
+   2341.7976,
+   3059.8899
+  ],
+  "model_offset_centre_um_min_med_max": [
+   667.3628,
+   2342.0782,
+   3059.8843
+  ],
+  "model_drift_rel_min_med_max": [
+   0.0108,
+   0.0123,
+   0.0144
+  ],
+  "model_offset_max_abs_over_valid_box_um": [
+   1192.0682,
+   4483.4479,
+   6065.0489
+  ],
+  "routeI_frac_ok": [
+   0.2072,
+   0.2862,
+   1.0
+  ],
+  "routeI_vs_model_p95_px": [
+   0.0011,
+   0.0265,
+   0.0739
+  ],
+  "routeF_vs_model_centre_px": [
+   0.0001,
+   0.005,
+   1.3295
+  ],
+  "routeF_affine_vs_catalog_max_um": [
+   0.0001,
+   0.3282,
+   45.4292
+  ],
+  "repro_err_p99_vx_max": [
+   0.001,
+   0.0078,
+   0.0081
+  ],
+  "repro_mask_agree_min": [
+   1.0,
+   1.0,
+   1.0
+  ]
+ }
+}

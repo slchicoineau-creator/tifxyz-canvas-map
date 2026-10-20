@@ -1,0 +1,12 @@
+[
+ {
+  "segment": "20260227000000",
+  "key": "PHerc0139/segments/20260227000000-w052_2026022705/surface-volumes/2.399um-0.22m-78keV-volume-20260102150214.zarr",
+  "level": 2,
+  "layers_level": 109,
+  "layers0": 109,
+  "max_abs_diff": 1.0,
+  "nonzero_frac": 1.0,
+  "ok": true
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "segment": "20250611170257",
+  "key": "PHerc0500P2/segments/20250611170257-z_dbg_gen_00308_inp_hr/surface-volumes/2.215um-0.4m-111keV-volume-20250526151718.zarr",
+  "level": 2,
+  "layers_level": 118,
+  "layers0": 118,
+  "max_abs_diff": 0.75,
+  "nonzero_frac": 0.6235416666666667,
+  "ok": true
+ }
+]
